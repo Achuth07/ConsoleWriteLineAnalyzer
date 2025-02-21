@@ -1,0 +1,12 @@
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.deps.json
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.dll
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.pdb
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.csproj.AssemblyReference.cache
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Resources.resources
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.csproj.GenerateResource.cache
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.AssemblyInfoInputs.cache
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.AssemblyInfo.cs
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.dll
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.pdb

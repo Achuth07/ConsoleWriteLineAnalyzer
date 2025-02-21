@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.Package\\ConsoleWriteLineAnalyzer.Package.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.CodeFixes\\ConsoleWriteLineAnalyzer.CodeFixes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.CodeFixes\\ConsoleWriteLineAnalyzer.CodeFixes.csproj",
+        "projectName": "ConsoleWriteLineAnalyzer.CodeFixes",
+        "projectPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.CodeFixes\\ConsoleWriteLineAnalyzer.CodeFixes.csproj",
+        "packagesPath": "C:\\Users\\achuth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.CodeFixes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\achuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.csproj": {
+                "projectPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.Package\\ConsoleWriteLineAnalyzer.Package.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.Package\\ConsoleWriteLineAnalyzer.Package.csproj",
+        "projectName": "ConsoleWriteLineAnalyzer",
+        "projectPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.Package\\ConsoleWriteLineAnalyzer.Package.csproj",
+        "packagesPath": "C:\\Users\\achuth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.Package\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\achuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.CodeFixes\\ConsoleWriteLineAnalyzer.CodeFixes.csproj": {
+                "projectPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.CodeFixes\\ConsoleWriteLineAnalyzer.CodeFixes.csproj"
+              },
+              "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.csproj": {
+                "projectPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.csproj",
+        "projectName": "*ConsoleWriteLineAnalyzer.csproj*",
+        "projectPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer.csproj",
+        "packagesPath": "C:\\Users\\achuth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\achuth\\Desktop\\Projects\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\ConsoleWriteLineAnalyzer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\achuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Console": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

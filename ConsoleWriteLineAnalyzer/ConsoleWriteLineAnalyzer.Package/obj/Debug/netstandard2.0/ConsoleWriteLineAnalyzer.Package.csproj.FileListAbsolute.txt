@@ -1,0 +1,17 @@
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.deps.json
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.dll
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.pdb
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.CodeFixes.dll
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.dll
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.CodeFixes.pdb
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\bin\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.pdb
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.csproj.AssemblyReference.cache
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.AssemblyInfoInputs.cache
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.AssemblyInfo.cs
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.csproj.CoreCompileInputs.cache
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\obj\Debug\netstandard2.0\ConsoleW.6FBB5C56.Up2Date
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.dll
+C:\Users\achuth\Desktop\Projects\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\obj\Debug\netstandard2.0\ConsoleWriteLineAnalyzer.Package.pdb

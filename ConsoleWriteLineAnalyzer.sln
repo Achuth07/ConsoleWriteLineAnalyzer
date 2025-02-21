@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWriteLineAnalyzer", "ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.csproj", "{A7ED2353-2655-4961-B085-A9690F6752A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWriteLineAnalyzer.CodeFixes", "ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.CodeFixes\ConsoleWriteLineAnalyzer.CodeFixes.csproj", "{CED6852D-ECAE-45CA-99EC-FFB1C4D122A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWriteLineAnalyzer.Package", "ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Package\ConsoleWriteLineAnalyzer.Package.csproj", "{84CF3044-1F0B-4C02-A583-56092302386B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWriteLineAnalyzer.Test", "ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Test\ConsoleWriteLineAnalyzer.Test.csproj", "{C2C88888-3F8B-4304-B993-F4FCF5B9553A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWriteLineAnalyzer.Vsix", "ConsoleWriteLineAnalyzer\ConsoleWriteLineAnalyzer.Vsix\ConsoleWriteLineAnalyzer.Vsix.csproj", "{B8374143-1DD4-4032-BDC2-BD1E089B7EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7ED2353-2655-4961-B085-A9690F6752A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7ED2353-2655-4961-B085-A9690F6752A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7ED2353-2655-4961-B085-A9690F6752A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7ED2353-2655-4961-B085-A9690F6752A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED6852D-ECAE-45CA-99EC-FFB1C4D122A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED6852D-ECAE-45CA-99EC-FFB1C4D122A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED6852D-ECAE-45CA-99EC-FFB1C4D122A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED6852D-ECAE-45CA-99EC-FFB1C4D122A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CF3044-1F0B-4C02-A583-56092302386B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CF3044-1F0B-4C02-A583-56092302386B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CF3044-1F0B-4C02-A583-56092302386B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CF3044-1F0B-4C02-A583-56092302386B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C88888-3F8B-4304-B993-F4FCF5B9553A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C88888-3F8B-4304-B993-F4FCF5B9553A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C88888-3F8B-4304-B993-F4FCF5B9553A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C88888-3F8B-4304-B993-F4FCF5B9553A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8374143-1DD4-4032-BDC2-BD1E089B7EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8374143-1DD4-4032-BDC2-BD1E089B7EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8374143-1DD4-4032-BDC2-BD1E089B7EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8374143-1DD4-4032-BDC2-BD1E089B7EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF19092-220D-456E-927E-81DE51B050FD}
+	EndGlobalSection
+EndGlobal
